@@ -1,0 +1,7 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.active {
+    color: #8c8bd8 !important;
+}
